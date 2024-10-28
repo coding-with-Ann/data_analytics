@@ -1,0 +1,31 @@
+POWER BI INTERFACE
+
+ON left side report view is used to make reports, charts, graphs.
+
+Data view contains all the tables and also here we write the dax queries
+
+Model view is used to connect data, tables and to make relationship between them
+
+GET DATA option in HOME tab is used to get data from different sources
+
+In QUERIES group TRANSFORM DATA option is used for data cleaning and data processing after loading data
+
+The changes we make using transform data option can be seen on right side with name applied steps.
+
+OBJECTIVE 
+Owner of madhav store wants us to help them create a dashboard to track and analyze their online sales across India
+
+
+GROUPBY IN POWER BI
+In home tab we can find group by in transform group.
+We can perform operations on multiple columns in advanced groupby option.
+
+After completing editing and formating before closing it goto home and select close and apply
+
+
+
+To edit relationship in Model view hover over the joint and right click to select properties 
+
+duration: 17:00
+--------------------------------------------------------------------------------------------------
+
